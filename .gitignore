@@ -1,0 +1,28 @@
+# default
+.vscode/
+**/.ipynb_checkpoints/
+**/__pycache__/
+**.pyc
+**.md
+**.zip
+**.7z
+
+# data
+**.npy
+**.txt
+**.pickle
+
+# model
+**/checkpoint.pt
+test/baseline/models_incompletedata/*
+
+# exclusion
+!doc/*
+!processing/clean_breakpoint_resume/*
+!./README.md
+!**/segment_lstm_mean.npy
+!**/segment_lstm_std.npy
+!**/baseline_lstm_mean.npy
+!**/baseline_lstm_std.npy
+!**/symprop_maml_mean.npy
+!**/symprop_maml_std.npy

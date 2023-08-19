@@ -9,7 +9,7 @@
 
 ### Video
 
-[![video_cover](/img/video_cover.png)](https://www.youtube.com/watch?v=FlgmvNA_D7Y)
+[![video_cover](/img/video_cover.png)](https://youtu.be/q8K7pD_2MB4)
 
 ---
 
@@ -32,10 +32,10 @@ The code has been tested with python3.8, CUDA 11 on Ubuntu18.
 
 1. Follow the installation instructions in [rosplan_demos](https://github.com/paperreplicationpkg/rosplan_implementation) repository. 
 
-2. Download learn_cnn_encoded_propositions repository.
+2. Download this repository.
 
 ```
-git clone https://github.com/LCEPRPFD/learn_cnn_encoded_propositions.git
+git clone https://github.com/paperreplicationpkg/aaaicode.git
 ```
 ---
 

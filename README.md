@@ -1,4 +1,4 @@
-## Replication Package For Paper: Robot Learning from Demonstration: Failure-aware Plan Learning
+## Replication Package For Paper: Robot Learning from Demonstration: Enhancing Plan Execution with Failure Detection Model
 
 ---
 

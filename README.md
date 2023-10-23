@@ -9,7 +9,7 @@
 
 ### Video
 
-[![video_cover](/img/video_cover.png)](https://youtu.be/q8K7pD_2MB4)
+[![video_cover](/img/video_cover.png)](https://youtu.be/IpbmobpBsTE)
 
 ---
 
